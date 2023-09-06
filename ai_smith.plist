@@ -26,7 +26,7 @@
     <string>co.vulcanlabs.moodtracker</string>
     <key>bundle-version</key>
     <!-- 版本号-必变 -->
-    <string>5.9</string>
+    <string>6.0</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
