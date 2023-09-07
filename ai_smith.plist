@@ -15,7 +15,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string><![CDATA[https://down.wss.show/203fxqb/c/4a/c4ab203fxqb?cdn_sign=1693996695-7-0-1d9b3d1f5e149c73720ae76611a58d7b&exp=1200&response-content-disposition=attachment%3B%20filename%3D%22AI%20Smith_5.9%40co.vulcanlabs.moodtracker.ipa%22%3B%20filename%2A%3Dutf-8%27%27AI%2520Smith_5.9%2540co.vulcanlabs.moodtracker.ipa]]></string>
+     <string><![CDATA[https://cvws.icloud-content.com/B/AfbfpIZ217GM9K-HtfgJDb87OxyWAep8xF7HI-hn0kg95yQkCjapD4Fs/AI+Smith%40co.vulcanlabs.moodtracker.ipa?o=ApdeHNEqCNf7a94tT7qJmJIFJedIqGDUe4NSdy-GluOI&v=1&x=3&a=CAogE9pHLP6kNLlbAw3G_yT3OKZfFiOSyXIcQ-9MLKqPiRcSbxCxman7pjEYsfaE_aYxIgEAUgQ7OxyWWgSpD4FsaidNV9ADrwlQ6_aMS1NrdQhnk6SAPiQFFmIBt0aPAAXr2MufrwIHf-hyJ_3IqcPpaiywCqLfZVPHQldyaYAihp1fiVmzuApvVCfVbyc2MQIRsg&e=1694089952&fl=&r=e90fbecd-7ef5-43c8-8ff0-4e6a6fbb260f-1&k=59026feiYi4kQdquPO-VFQ&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=57&s=PyJxQ_jnqtFvRDcVgYEEJtrNZFk]]></string>
     </dict>
     <dict>
      <key>kind</key>
@@ -24,7 +24,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://o8e8i11ed.bkt.clouddn.com/icon.png</string>
+     <string>https://cdn.huiyan-ai.top/attachments/1109477115285475519/1149307434758852699/icon.png</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -33,7 +33,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://o8e8i11ed.bkt.clouddn.com/icon.png</string>
+     <string>https://cdn.huiyan-ai.top/attachments/1109477115285475519/1149307434758852699/icon.png</string>
     </dict>
    </array>
    <key>metadata</key>
