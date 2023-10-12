@@ -5,7 +5,7 @@
 
 [Script]
 
-SmartAI_8 = type=http-response, pattern=^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$, requires-body=true, max-size=3145728, script-path=https://raw.githubusercontent.com/jllz129886/my_demo/main/ai_smith.js, timeout=60, script-update-interval=0
+SmartAI_8 = type=http-response, pattern=^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$, requires-body=1, max-size=0, script-path=https://raw.githubusercontent.com/jllz129886/my_demo/main/ai_smith.js
 
 [MITM]
 
