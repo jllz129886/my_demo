@@ -21,8 +21,7 @@
   var UA = $request.headers['user-agent'];
   var uaProductMapping = {
       'MoodTracker': {product_id: 'co.vulcanlabs.moodtracker.lifetime2'},
-      'zhongwen': {product_id: 'com.hk.zhongwenhuatu.niandingyue'},
-      'hk': {product_id: 'com.hk.zhongwenhuatu.niandingyue'}
+      'zhongwen': {product_id: 'com.hk.zhongwenhuatu.niandingyue'}
   };
   let token1 = "3c9fe82447154eb58fa014feefff4004";
   let url = "http://www.pushplus.plus/send";
