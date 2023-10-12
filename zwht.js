@@ -1,3 +1,12 @@
+/**************************************
+
+[rewrite_local]
+^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/jllz129886/my_demo/main/zwht.js
+
+[mitm]
+hostname = buy.itunes.apple.com
+
+*************************************/
 var youXiu = {};
     var youXiu1 =JSON.parse(typeof $response != "undefined" && $response.body || null);
     var product_id = "com.hk.zhongwenhuatu.niandingyue";
