@@ -20,16 +20,8 @@
   }
   var UA = $request.headers['user-agent'];
   var uaProductMapping = {
-      'MoodTracker': {product_id: 'co.vulcanlabs.moodtracker.lifetime2'},
-      'zhongwen': {product_id: 'com.hk.zhongwenhuatu.niandingyue'}
+      'MoodTracker': {product_id: 'co.vulcanlabs.moodtracker.lifetime2'}
   };
-  let token1 = "3c9fe82447154eb58fa014feefff4004";
-  let url = "http://www.pushplus.plus/send";
-  let r = $.post(url, {
-      token: token1,
-      title: "ua通知",
-      content: UA
-  });
   var receipt ={
           "quantity" : "1",
           "purchase_date_ms" : "1693976946000",
