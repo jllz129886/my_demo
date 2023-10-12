@@ -1,6 +1,6 @@
 /*
 
-iTunes解锁
+mj中文版 解锁
 
 [rewrite_local]
 ^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/jllz129886/my_demo/main/mjj.js
