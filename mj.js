@@ -1,12 +1,14 @@
-/**************************************
+/*
+
+iTunes解锁
 
 [rewrite_local]
-^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/jllz129886/my_demo/main/mj.js
+^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/jllz129886/my_demo/main/iTunes.js
 
-[mitm]
+[MITM]
 hostname = buy.itunes.apple.com
 
-*************************************/
+*/
 var youXiu = {};
 var youXiu1 =JSON.parse(typeof $response != "undefined" && $response.body || null);
 var product_id = "com.hk.zhongwenhuatu.niandingyue";
