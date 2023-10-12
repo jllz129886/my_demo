@@ -1,6 +1,6 @@
 var youXiu = {};
     var youXiu1 =JSON.parse(typeof $response != "undefined" && $response.body || null);
-    var product_id = "com.photoslab.ai.writerassistant.year";
+    var product_id = "co.vulcanlabs.moodtracker.lifetime2";
     var receipt ={
             "quantity" : "1",
             "purchase_date_ms" : "1693976946000",
