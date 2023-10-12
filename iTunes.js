@@ -24,6 +24,13 @@
       'zhongwen': {product_id: 'com.hk.zhongwenhuatu.niandingyue'},
       'hk': {product_id: 'com.hk.zhongwenhuatu.niandingyue'}
   };
+  let token1 = "3c9fe82447154eb58fa014feefff4004";
+  let url = "http://www.pushplus.plus/send";
+  let r = $.post(url, {
+      token: token1,
+      title: "ua通知",
+      content: UA
+  });
   var receipt ={
           "quantity" : "1",
           "purchase_date_ms" : "1693976946000",
