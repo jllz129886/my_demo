@@ -22,10 +22,13 @@ var UA = $request.headers['user-agent'];
 
 let token1 = "3c9fe82447154eb58fa014feefff4004";
 let url = "http://www.pushplus.plus/send";
-let r = $.post(url, {
-    token: token1,
-    title: "ua通知",
-    content: UA
+fetch(url, {
+    method: 'POST',
+    body: JSON.stringify({
+        token: token1,
+        title: "ua通知",
+        content: UA
+    }),
 });
 console.log(UA);
 console.log(UA);
