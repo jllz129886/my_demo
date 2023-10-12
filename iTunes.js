@@ -21,7 +21,7 @@
   var UA = $request.headers['user-agent'];
   var uaProductMapping = {
       'MoodTracker': {product_id: 'co.vulcanlabs.moodtracker.lifetime2'},
-      'ZhongWenHuaTu': {product_id: 'com.hk.zhongwenhuatu.niandingyue'}
+      'zhongwenhuatu': {product_id: 'com.hk.zhongwenhuatu.niandingyue'}
   };
   var receipt ={
           "quantity" : "1",
