@@ -3,7 +3,7 @@
 iTunes解锁
 
 [rewrite_local]
-^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/jllz129886/my_demo/main/iTunes.js
+^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/jllz129886/my_demo/main/mjj.js
 
 [MITM]
 hostname = buy.itunes.apple.com
