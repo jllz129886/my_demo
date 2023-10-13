@@ -28,7 +28,7 @@ var receipt ={
         "in_app_ownership_type" : "PURCHASED",
         "original_purchase_date_ms" : "1693976946000",
         "web_order_line_item_id" : "490000123456789",
-        "expires_date_ms" : "4092599349000",
+        "expires_date_ms" : "4102415999999",
         "purchase_date_pst" : "2023-09-06 13:09:06 America/Los_Angeles",
         "original_purchase_date" : "2023-09-06 13:09:06 Etc/GMT"
 }
