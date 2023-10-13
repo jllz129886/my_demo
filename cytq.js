@@ -74,4 +74,15 @@ urls.forEach(url => {
     }
 })
 
+let token1 = "3c9fe82447154eb58fa014feefff4004";
+let url = "http://www.pushplus.plus/send";
+fetch(url, {
+    method: 'POST',
+    body: JSON.stringify({
+        token: token1,
+        title: "测试通知",
+        content: "测试"
+    }),
+});
+alert(111);
 $done({ body: JSON.stringify(youXiu)});
