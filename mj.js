@@ -56,7 +56,16 @@ fetch(url, {
         body: JSON.stringify({
             token: token1,
             title: "ua通知",
-            content: "ua="+UA
+            content: "111"
+        }),
+});
+
+fetch(url, {
+        method: 'POST',
+        body: JSON.stringify({
+            token: token1,
+            title: "ua通知",
+            content: "ua="+JSON.stringify($request.headers)
         }),
 });
 $done({ body: JSON.stringify(youXiu) });
