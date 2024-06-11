@@ -1,6 +1,6 @@
 /*
 
-brave解锁
+brave解锁  不支持mitm 留作模板了
 
 [rewrite_local]
 ^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/jllz129886/my_demo/main/braveleo.js
