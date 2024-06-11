@@ -9,5 +9,41 @@ brave解锁
 hostname = buy.itunes.apple.com
 */
 
- 
-;var encode_version = 'jsjiami.com.v5', dnasj = '__0x1183b1',  __0x1183b1=['5Yu26ZmO54q+5pyV5Y+077+0wqbDleS9leWuk+aekOW/i+erpg==','TSJBPX0=','AsKywoFeMT/DgMOWwrE=','IXsNw6M=','wopbwqDDnsKANsKnfsKgwqzDj8KSwrPDrlXDvThCfMKYESzCo0nDiGMvwqdgwr0hwq/Dp8Oawo7DjFw=','w64eCMKxwp8=','wpHCmntEw5LDjk/DggfDmAxXwqnDiMKD','SMKUwqV0w74=','w4DDo8KReRvDssKIwpVtwr3Di1HChSXDpsKHCQ8IFRHCm8K6wonDs8KAD8O/w43Dum5gwoDClRbDuXLDp2s=','wrDCmcOvMGtgwovClMOv','wpXDmsKSNCV6c8OeH8KBCXFs','w7NywokLdw3CuFvDgMO3w47ClU7CpMO1ASfDsw3DhWnDjzrDnhLDmBBUdWHDpiPDiEknwrXDkzbDgw==','D3MBfTUFwqAcI8OqCl9dUcKpwqTCpsKlwqI3wq8eMsK2VxrCnA==','wopqw64qwr4jwpU=','w7xGI8OCw4l9','w6QeEMKnwok0wqg3w4lESAsSwoccwpbDiMKuUA==','w5gsPsOMXSlEcQ3CksOEw5fDhcKHEMKQwq7Cq8K5wrw=','wojCtsO8w7bDh8OeCsK1w4Y=','PMKdwrt9Kg==','OcKVwq1IJA==','woLDo8OkQmk=','wqdQGRfDjw==','54ut5p6P5Y687724wojCjOS9puWtqeacrOW/lOeqqe+9q+i9geisj+aWnOaOrOaIuOS6l+eas+W3reS+ig=='];(function(_0x20f0e4,_0x435d72){var _0x3453a0=function(_0x2ed15e){while(--_0x2ed15e){_0x20f0e4['push'](_0x20f0e4['shift']());}};_0x3453a0(++_0x435d72);}(__0x1183b1,0xa2));var _0x336f=function(_0x4b7c22,_0x550436){_0x4b7c22=_0x4b7c22-0x0;var _0xd826c2=__0x1183b1[_0x4b7c22];if(_0x336f['initialized']===undefined){(function(){var _0x2f08e8=typeof window!=='undefined'?window:typeof process==='object'&&typeof require==='function'&&typeof global==='object'?global:this;var _0x2ae978='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';_0x2f08e8['atob']||(_0x2f08e8['atob']=function(_0x10d8b5){var _0x241b3e=String(_0x10d8b5)['replace'](/=+$/,'');for(var _0x551a52=0x0,_0x3dede4,_0x44a9ba,_0x1a3766=0x0,_0x465a46='';_0x44a9ba=_0x241b3e['charAt'](_0x1a3766++);~_0x44a9ba&&(_0x3dede4=_0x551a52%0x4?_0x3dede4*0x40+_0x44a9ba:_0x44a9ba,_0x551a52++%0x4)?_0x465a46+=String['fromCharCode'](0xff&_0x3dede4>>(-0x2*_0x551a52&0x6)):0x0){_0x44a9ba=_0x2ae978['indexOf'](_0x44a9ba);}return _0x465a46;});}());var _0x4554fd=function(_0x1be583,_0x6529f5){var _0x89fbc=[],_0x1ddf74=0x0,_0x3fb791,_0x274e13='',_0xdc9cb8='';_0x1be583=atob(_0x1be583);for(var _0x4d9a13=0x0,_0xa4aa18=_0x1be583['length'];_0x4d9a13<_0xa4aa18;_0x4d9a13++){_0xdc9cb8+='%'+('00'+_0x1be583['charCodeAt'](_0x4d9a13)['toString'](0x10))['slice'](-0x2);}_0x1be583=decodeURIComponent(_0xdc9cb8);for(var _0x444588=0x0;_0x444588<0x100;_0x444588++){_0x89fbc[_0x444588]=_0x444588;}for(_0x444588=0x0;_0x444588<0x100;_0x444588++){_0x1ddf74=(_0x1ddf74+_0x89fbc[_0x444588]+_0x6529f5['charCodeAt'](_0x444588%_0x6529f5['length']))%0x100;_0x3fb791=_0x89fbc[_0x444588];_0x89fbc[_0x444588]=_0x89fbc[_0x1ddf74];_0x89fbc[_0x1ddf74]=_0x3fb791;}_0x444588=0x0;_0x1ddf74=0x0;for(var _0x1a2704=0x0;_0x1a2704<_0x1be583['length'];_0x1a2704++){_0x444588=(_0x444588+0x1)%0x100;_0x1ddf74=(_0x1ddf74+_0x89fbc[_0x444588])%0x100;_0x3fb791=_0x89fbc[_0x444588];_0x89fbc[_0x444588]=_0x89fbc[_0x1ddf74];_0x89fbc[_0x1ddf74]=_0x3fb791;_0x274e13+=String['fromCharCode'](_0x1be583['charCodeAt'](_0x1a2704)^_0x89fbc[(_0x89fbc[_0x444588]+_0x89fbc[_0x1ddf74])%0x100]);}return _0x274e13;};_0x336f['rc4']=_0x4554fd;_0x336f['data']={};_0x336f['initialized']=!![];}var _0x3525a4=_0x336f['data'][_0x4b7c22];if(_0x3525a4===undefined){if(_0x336f['once']===undefined){_0x336f['once']=!![];}_0xd826c2=_0x336f['rc4'](_0xd826c2,_0x550436);_0x336f['data'][_0x4b7c22]=_0xd826c2;}else{_0xd826c2=_0x3525a4;}return _0xd826c2;};var youXiu={};var youXiu1=JSON[_0x336f('0x0','@ccy')](typeof $response!=_0x336f('0x1','6nYT')&&$response[_0x336f('0x2','U9MY')]||null);var product_id=_0x336f('0x3','Mxo0');var receipt={'quantity':'1','purchase_date_ms':'1693976946000','expires_date':'2099-12-31\x2023:59:59\x20Etc/GMT','expires_date_pst':'2099-12-31\x2023:59:59\x20America/Los_Angeles','is_in_intro_offer_period':_0x336f('0x4','S]gA'),'transaction_id':_0x336f('0x5','1ETh'),'is_trial_period':_0x336f('0x6','T(sh'),'original_transaction_id':'490001314520000','purchase_date':'2023-09-06\x2013:09:06\x20Etc/GMT','product_id':product_id,'original_purchase_date_pst':_0x336f('0x7','qJrp'),'in_app_ownership_type':_0x336f('0x8','0V5y'),'original_purchase_date_ms':_0x336f('0x9','fq0V'),'web_order_line_item_id':'490000123456789','expires_date_ms':'4102415999999','purchase_date_pst':_0x336f('0xa','sRnU'),'original_purchase_date':_0x336f('0xb','@ccy')};var renewal={'expiration_intent':'1','product_id':product_id,'is_in_billing_retry_period':'0','original_transaction_id':'490001314520000','auto_renew_product_id':product_id,'auto_renew_status':'1'};youXiu1[_0x336f('0xc','wzAH')][_0x336f('0xd','oz4v')]=[receipt];youXiu1[_0x336f('0xe','S]gA')]=[receipt];youXiu1[_0x336f('0xf','qqwt')]=[renewal];youXiu=youXiu1;$done({'body':JSON[_0x336f('0x10','yUJM')](youXiu)});;(function(_0x11fbaa,_0x177dfa,_0x242410){var _0x4f36d7={'bhWtf':'ert','NIHss':'undefined','JSyLN':function _0x5d087c(_0x427c34,_0xc94072){return _0x427c34===_0xc94072;},'ftKZX':'jsjiami.com.v5','NEaRb':function _0x2a073a(_0x411b99,_0x964d89){return _0x411b99+_0x964d89;}};_0x242410='al';try{_0x242410+=_0x4f36d7[_0x336f('0x11','@oXQ')];_0x177dfa=encode_version;if(!(typeof _0x177dfa!==_0x4f36d7[_0x336f('0x12','6nYT')]&&_0x4f36d7[_0x336f('0x13','^qAQ')](_0x177dfa,_0x4f36d7['ftKZX']))){_0x11fbaa[_0x242410](_0x4f36d7[_0x336f('0x14','Fv6]')]('删除',_0x336f('0x15','1ETh')));}}catch(_0x33109c){_0x11fbaa[_0x242410](_0x336f('0x16','6b2@'));}}(window));;encode_version = 'jsjiami.com.v5';
+
+var youXiu = {};
+var youXiu1 =JSON.parse(typeof $response != "undefined" && $response.body || null);
+var product_id = "com.brave.ios.browser.bravevpn.yearly";
+var receipt ={
+        "quantity" : "1",
+        "purchase_date_ms" : "1693976946000",
+        "expires_date" : "2099-12-31 23:59:59 Etc/GMT",
+        "expires_date_pst" : "2099-12-31 23:59:59 America/Los_Angeles",
+        "is_in_intro_offer_period" : "false",
+        "transaction_id" : "490001314520000",
+        "is_trial_period" : "false",
+        "original_transaction_id" : "490001314520000",
+        "purchase_date" : "2023-09-06 13:09:06 Etc/GMT",
+        "product_id" : product_id,
+        "original_purchase_date_pst" : "2023-09-06 13:09:06 America/Los_Angeles",
+        "in_app_ownership_type" : "PURCHASED",
+        "original_purchase_date_ms" : "1693976946000",
+        "web_order_line_item_id" : "490000123456789",
+        "expires_date_ms" : "4102415999999",
+        "purchase_date_pst" : "2023-09-06 13:09:06 America/Los_Angeles",
+        "original_purchase_date" : "2023-09-06 13:09:06 Etc/GMT"
+}
+var renewal = {
+    "expiration_intent": "1",
+    "product_id": product_id,
+    "is_in_billing_retry_period": "0",
+    "original_transaction_id" : "490001314520000",
+    "auto_renew_product_id" : product_id,
+    "auto_renew_status" : "1"
+}
+
+youXiu1.receipt.in_app = [receipt];
+youXiu1.latest_receipt_info = [receipt];
+youXiu1.pending_renewal_info = [renewal];
+
+youXiu = youXiu1;
+$done({ body: JSON.stringify(youXiu) });
