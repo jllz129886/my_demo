@@ -11,7 +11,7 @@ hostname = buy.itunes.apple.com
 */
 var youXiu = {};
 var youXiu1 =JSON.parse(typeof $response != "undefined" && $response.body || null);
-var product_id = "com.brave.ios.browser.bravevpn.monthly";
+var product_id = "com.brave.ios.browser.braveleo.monthly";
 var receipt ={
         "quantity" : "1",
         "purchase_date_ms" : "1693976946000",
