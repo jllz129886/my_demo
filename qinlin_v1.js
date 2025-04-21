@@ -1,9 +1,10 @@
+
 /*
 
-qinlin解锁 
+亲邻 解锁
 
 [rewrite_local]
-^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/jllz129886/my_demo/main/qinlin.js
+^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/jllz129886/my_demo/main/qinlin_v1.js
 
 [MITM]
 hostname = buy.itunes.apple.com
@@ -11,7 +12,7 @@ hostname = buy.itunes.apple.com
 */
 var youXiu = {};
 var youXiu1 =JSON.parse(typeof $response != "undefined" && $response.body || null);
-var product_id = "com.qinlinkeji.www.QinLinOpenDoor.ad.mall.personal.year";
+var product_id = "ad.mall.personal.year";
 var receipt ={
         "quantity" : "1",
         "purchase_date_ms" : "1693976946000",
